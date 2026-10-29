@@ -1,0 +1,5 @@
+﻿{
+    "TimestampUtc":  "2026-10-29T14:46:55.9085609Z",
+    "Mode":  "DryRun",
+    "Message":  "Dry run only. Re-run with -Apply to install upgrades on this lab machine."
+}

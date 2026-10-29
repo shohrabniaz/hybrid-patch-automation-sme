@@ -1,0 +1,293 @@
+﻿{
+    "TimestampUtc":  "2026-10-29T14:46:52.2543411Z",
+    "Host":  "NIAZ",
+    "RegistryAppCount":  95,
+    "SampleApps":  [
+                       {
+                           "Name":  "Docker Desktop",
+                           "Version":  "4.78.0",
+                           "Publisher":  "Docker Inc.",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Git",
+                           "Version":  "2.54.0",
+                           "Publisher":  "The Git Development Community",
+                           "InstallDate":  "20260603",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "GNU Privacy Guard",
+                           "Version":  "2.5.18",
+                           "Publisher":  "The GnuPG Project",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Gpg4win (5.0.2)",
+                           "Version":  "5.0.2",
+                           "Publisher":  "The Gpg4win Project",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Intel(R) Graphics Software \u0026 Drivers",
+                           "Version":  "1.0.1315.13",
+                           "Publisher":  "Intel(R) Corporation",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Mozilla Firefox (x64 en-US)",
+                           "Version":  "149.0",
+                           "Publisher":  "Mozilla",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Mozilla Maintenance Service",
+                           "Version":  "93.0",
+                           "Publisher":  "Mozilla",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Notepad++ (64-bit x64)",
+                           "Version":  "8.8.8",
+                           "Publisher":  "Notepad++ Team",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft 365 Apps for enterprise - en-us",
+                           "Version":  "16.0.20430.20180",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "VLC media player",
+                           "Version":  "3.0.24",
+                           "Publisher":  "VideoLAN",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "WinRAR 5.21 (64-bit)",
+                           "Version":  "5.21.0",
+                           "Publisher":  "win.rar GmbH",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.12.10 Executables (64-bit)",
+                           "Version":  "3.12.10150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20260514",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.12.10 Test Suite (64-bit)",
+                           "Version":  "3.12.10150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20260514",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "oneAPI Level Zero",
+                           "Version":  "1.33.1",
+                           "Publisher":  "Intel Corporation",
+                           "InstallDate":  "20261018",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Google Chrome",
+                           "Version":  "156.0.8078.73",
+                           "Publisher":  "Google LLC",
+                           "InstallDate":  "20261028",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft Azure CLI (64-bit)",
+                           "Version":  "2.87.0",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20260603",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.14.0 Development Libraries (64-bit)",
+                           "Version":  "3.14.150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20251103",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft .NET Host FX Resolver - 8.0.33 (x64)",
+                           "Version":  "64.132.61667",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20261028",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Foxit PDF Reader",
+                           "Version":  "2026.1.1.36485",
+                           "Publisher":  "Foxit Software Inc.",
+                           "InstallDate":  "20260901",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.12.10 Documentation (64-bit)",
+                           "Version":  "3.12.10150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20260514",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Windows Subsystem for Linux",
+                           "Version":  "2.4.13.0",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20250505",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft Windows Application Compatibility Fix Database",
+                           "Version":  null,
+                           "Publisher":  null,
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft .NET Host - 8.0.33 (x64)",
+                           "Version":  "64.132.61667",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20261028",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft .NET Host FX Resolver - 10.0.14 (x64)",
+                           "Version":  "80.56.61678",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20261028",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Dell Connected Service Delivery SubAgent",
+                           "Version":  "1.1.2.0",
+                           "Publisher":  "Dell Technologies, Inc.",
+                           "InstallDate":  "20260902",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Documentation Manager",
+                           "Version":  "24.70.0.3",
+                           "Publisher":  "Intel Corporation",
+                           "InstallDate":  "20260920",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.12.10 Add to Path (64-bit)",
+                           "Version":  "3.12.10150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20260514",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Intel(R) Computing Improvement Program",
+                           "Version":  "2.4.11241",
+                           "Publisher":  "Intel Corporation",
+                           "InstallDate":  "20261003",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Logitech G HUB",
+                           "Version":  "2025.9.814157",
+                           "Publisher":  "Logitech",
+                           "InstallDate":  null,
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "GitHub CLI",
+                           "Version":  "2.93.0",
+                           "Publisher":  "GitHub, Inc.",
+                           "InstallDate":  "20260603",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Go Programming Language amd64 go1.26.3",
+                           "Version":  "1.26.3",
+                           "Publisher":  "https://go.dev",
+                           "InstallDate":  "20260520",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft .NET Runtime - 8.0.33 (x64)",
+                           "Version":  "64.132.61667",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20261028",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "CodeMeter Runtime Kit v8.20",
+                           "Version":  "8.20.6539.500",
+                           "Publisher":  "WIBU-SYSTEMS AG",
+                           "InstallDate":  "20260804",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Bonjour",
+                           "Version":  "3.1.0.1",
+                           "Publisher":  "Apple Inc.",
+                           "InstallDate":  "20260804",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.14.0 Tcl/Tk Support (64-bit)",
+                           "Version":  "3.14.150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20251103",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Dell SupportAssist PC Analytics",
+                           "Version":  "5.2.5.2983",
+                           "Publisher":  "Dell Inc.",
+                           "InstallDate":  "20261026",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.50.35719",
+                           "Version":  "14.50.35719",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20260922",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Microsoft Windows Desktop Runtime - 10.0.14 (x64)",
+                           "Version":  "80.56.61678",
+                           "Publisher":  "Microsoft Corporation",
+                           "InstallDate":  "20261028",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Node.js",
+                           "Version":  "22.16.0",
+                           "Publisher":  "Node.js Foundation",
+                           "InstallDate":  "20250604",
+                           "Source":  "Registry"
+                       },
+                       {
+                           "Name":  "Python 3.14.0 pip Bootstrap (64-bit)",
+                           "Version":  "3.14.150.0",
+                           "Publisher":  "Python Software Foundation",
+                           "InstallDate":  "20251103",
+                           "Source":  "Registry"
+                       }
+                   ],
+    "Winget":  [
+                   {
+                       "Note":  "winget list captured",
+                       "Length":  35304
+                   }
+               ]
+}

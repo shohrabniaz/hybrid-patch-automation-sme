@@ -1,0 +1,10 @@
+﻿{
+    "TimestampUtc":  "2026-10-29T14:46:56.6498786Z",
+    "Host":  "NIAZ",
+    "InventoriedApps":  95,
+    "OutdatedScan":  "Upgrade candidates listed — see JSON",
+    "E8_PatchApps_LabClaim":  "Pilot uses winget for third-party apps on one lab host. Not a fleet maturity attestation.",
+    "E8_PatchOS_LabClaim":  "OS updates remain on Windows Update / managed channel. This pilot does not replace WSUS/Intune.",
+    "RecommendedCycle":  "Critical/exploited: target 48 hours after test. Routine third-party: weekly winget ring. Monthly OS quality: after pilot ring.",
+    "RollbackNote":  "Keep a restore point or previous package version before -Apply on anything business-critical."
+}
